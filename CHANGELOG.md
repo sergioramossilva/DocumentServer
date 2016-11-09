@@ -13,11 +13,14 @@
 * Ability to select data from drop-down menu in context menu
 * Add multiselect support
 * Add rotation of 3D Charts
-* Fixes #63
 
 ### Presentation Editor
 * Ability to set `Fit to Width` as default zoom value
 * Add ability to insert Equations in Presentation Editor
+
+### Fixes
+* #55
+* #63
 
 ## 4.1.8
 ### Fixes
